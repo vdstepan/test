@@ -1,7 +1,17 @@
+
 .header {
     padding: 50px, 100px;
     text-align: center;
     background: #999;
     font-family: sans-serif;
     font-size: 32px;
+}
+
+.main {
+    background: lightgreen;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 38px;
+    padding: 100px;
 }
