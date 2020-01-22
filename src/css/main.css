@@ -1,27 +1,25 @@
-
 .header {
-    margin: 0;
-    padding: 50px;
-    text-align: center;
-    background: #999;
-    font-family: sans-serif;
-    font-size: 20px;
-}
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  background: #999;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #091d5e; }
 
 .main {
-    background: lightgreen;
-    color: #fff;
-    font-family: sans-serif;
-    text-align: center;
-    font-size: 28px;
-    padding: 100px;
-}
+  background: #67a515;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 28px;
+  padding: 100px;
+  color: #091d5e; }
 
 .footer {
-    background: slategrey;
-    padding: 30px 100px;
-    font-size: 22px;
-    color: #fff;
-    font-family: sans-serif;
-    text-align: left;
-}
+  background: slategrey;
+  padding: 30px 100px;
+  font-size: 22px;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: left; }
