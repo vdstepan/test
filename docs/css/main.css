@@ -1,0 +1,27 @@
+
+.header {
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    background: #999;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.main {
+    background: lightgreen;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 28px;
+    padding: 100px;
+}
+
+.footer {
+    background: slategrey;
+    padding: 30px 100px;
+    font-size: 22px;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: left;
+}
